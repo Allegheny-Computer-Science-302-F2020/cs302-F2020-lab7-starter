@@ -10,7 +10,7 @@
 * [Assignment Reminders](#assignment-reminders)
 * [Accessing the Assignment](#accessing-the-assignment)
 * [Laboratory Assignment Tasks](#laboratory-assignment-tasks)
-  + [Using HTML and CSS to Implement and Style a Web Form](#using-html-and-css-to-implement-and-style-a-web-form)
+  + [Using HTML and CSS to Implement and Style with CSS Gradients](#using-html-and-css-to-implement-and-style-with-css-gradients)
   + [Running a Web Server](#running-a-web-server)
   + [Reflecting on the Laboratory Assignment](#reflecting-on-the-laboratory-assignment)
   + [Transferring Your Source code and Technical Writing to GitHub](#transferring-your-source-code-and-technical-writing-to-github)
@@ -26,8 +26,8 @@
   + [Downloading Project Updates](#downloading-project-updates)
   + [Using GitHub Actions](#using-github-actions)
   + [System Requirements](#system-requirements)
-  + [Reporting Problems](#reporting-problems)
-  + [Receiving Assistance](#receiving-assistance)
+* [Reporting Problems](#reporting-problems)
+* [Receiving Assistance](#receiving-assistance)
 
 ## Objectives
 
@@ -173,7 +173,7 @@ your discoveries to a student technical leader.
 
 ## Laboratory Assignment Tasks
 
-### Using HTML and CSS to Implement and Style a Web Form
+### Using HTML and CSS to Implement and Style with CSS Gradients
 
 This assignment invites you to learn how to write HTML and CSS files that use
 CSS gradients to style the background of the box that contains an image.
@@ -582,7 +582,7 @@ This assignment was developed to work with the following software and versions:
   - MDL 0.5.0
   - Python 3.7 or 3.8
 
-### Reporting Problems
+## Reporting Problems
 
 If you have found a problem with this assignment's provided source code or
 documentation, then you can go to the [Computer Science 302 Fall 2020 Planning
@@ -599,7 +599,7 @@ use the appropriate GitHub issue tracker to correctly document, a mistake in any
 aspect of this assignment will receive extra credit towards their grade for the
 course.
 
-### Receiving Assistance
+## Receiving Assistance
 
 If you are having trouble completing any part of this project, then please talk
 with either the course instructor or a student technical leader during the
